@@ -1,0 +1,56 @@
+
+body {
+	background: #ffffff;
+	color: #000000;
+	padding: 0px;
+	margin: 0px;
+	font-family: Source Sans pro; 
+	font-size: 16px;
+	border: solid 30px #bdc3c7;
+	
+}
+	
+
+ #main-header{
+ 	background-color: #000000;
+ 	color: #ffffff;
+ 	text-align: center;
+ 	padding: 10px;
+
+
+ }
+
+#post{
+	padding: 0px;
+	margin: 10px;
+	
+	
+}
+
+.date1{
+	color: #3498db;
+	letter-spacing: 0.3em;
+	padding: 5px;
+
+	
+}
+
+h2{
+	font-family: "Source Sans pro";
+	color: #2c3e50;
+	padding: 0px;
+}
+
+
+
+
+.article{
+	padding: 5px;
+	text-align: justify;
+	margin: 5px;
+}
+
+
+
+
+
